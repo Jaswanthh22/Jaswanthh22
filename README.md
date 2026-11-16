@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaswanth-imandi-a23719345/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="(https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxGsSRfVDsnlRWRsjVtVZZgdNLFWMBVhwWXhQhFlZxXdFpssDvPgvnhvCgRCSXzRsMqTTl)"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="Gmail: imandi.jaswanth1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 </p>
 
@@ -69,6 +69,6 @@
 
 ## 📫 Let's connect
 
-I'm open to **AI/GenAI internships** and collaboration on LLM projects. Reach out via [LinkedIn](https://www.linkedin.com/in/jaswanth-imandi-a23719345/) or [email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxGsSRfVDsnlRWRsjVtVZZgdNLFWMBVhwWXhQhFlZxXdFpssDvPgvnhvCgRCSXzRsMqTTl).
+I'm open to **AI/GenAI internships** and collaboration on LLM projects. Reach out via [LinkedIn](https://www.linkedin.com/in/jaswanth-imandi-a23719345/) or [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxGsSRfVDsnlRWRsjVtVZZgdNLFWMBVhwWXhQhFlZxXdFpssDvPgvnhvCgRCSXzRsMqTTl).
 
 <p align="center"><i>"Build it, measure it, improve it."</i></p>
