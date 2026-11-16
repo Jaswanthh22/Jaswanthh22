@@ -30,7 +30,7 @@
 |---|---|---|
 | **[Starthship_landing](https://github.com/Jaswanthh22/Starship_landing)** |Train and run you own rocket and see how it perform in the space | python |
 | **[AI Web Navigator Agent](https://github.com/Jaswanthh22/Ai_Browser_Navigator)** 🏆 | Autonomous browser agent that understands a goal and navigates websites to complete it. **HackXlerator 2025 Finalist** | Ollama, LangChain, Playwright, Flask, React |
-| **[RAG FAQ Chatbot](https://github.com/Jaswanthh22/RAG-agent)** | Upload PDFs and chat with them. Evaluated on a 40-question test set: **100% retrieval hit@4, 74% answer accuracy, 100% correct refusals** | FastAPI, FAISS, Ollama, Docker |
+| **[RAG FAQ Chatbot](https://github.com/Jaswanthh22/RAG_agent)** | Upload PDFs and chat with them. Evaluated on a 40-question test set: **100% retrieval hit@4, 74% answer accuracy, 100% correct refusals** | FastAPI, FAISS, Ollama, Docker |
 | **[TalentVerse](https://github.com/Jaswanthh22/talent_verse)** | Skills and career intelligence using Generative AI | Python, FastAPI |
 
 | **[DSA-Tribe Hunting System](https://github.com/Jaswanthh22/YOUR-REPO)** | Data structures and algorithms project | Python |
