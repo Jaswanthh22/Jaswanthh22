@@ -18,7 +18,7 @@
 ## 🔭 What I'm working on
 
 
-- 🚀 **Starthship:** new project in progress
+- 🚀 **Starthship:** self landing rocket simulator 
 - 🧠 **LoRA fine-tuning project:** learning how models are trained, up next
 - 🎯 **TalentVerse:** skills and career intelligence platform
 - 🤖 **RAG FAQ chatbot:** upload PDFs, get a chat UI and a shareable per-bot link
