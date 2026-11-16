@@ -69,6 +69,6 @@
 
 ## 📫 Let's connect
 
-I'm open to **AI/GenAI internships** and collaboration on LLM projects. Reach out via [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) or [email](mailto:YOUR-EMAIL).
+I'm open to **AI/GenAI internships** and collaboration on LLM projects. Reach out via [LinkedIn](https://www.linkedin.com/in/jaswanth-imandi-a23719345/) or [email](mailto:imandi.jaswanth1@gmail.com).
 
 <p align="center"><i>"Build it, measure it, improve it."</i></p>
