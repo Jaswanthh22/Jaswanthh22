@@ -27,12 +27,14 @@
 
 ## ⭐ Featured projects
 
+
 | Project | What it does | Stack |
 |---|---|---|
-| **[Starthship_landing](https://github.com/Jaswanthh22/Starship_landing)** | self landing rocket with RL in gymnasium env | python |
-| **[AI Web Navigator Agent](https://github.com/Jaswanthh22/Ai_Browser_Navigator)** 🏆 | Autonomous browser agent that understands a goal and navigates websites to complete it. **HackXlerator 2025 Finalist** | Ollama, LangChain, Playwright, Flask, React |
-| **[RAG FAQ Chatbot](https://github.com/Jaswanthh22/RAG_agent)** | Upload PDFs and chat with them. Evaluated on a 40-question test set: **100% retrieval hit@4, 74% answer accuracy, 100% correct refusals** | FastAPI, FAISS, Ollama, Docker |
-| **[TalentVerse](https://github.com/Jaswanthh22/talent_verse)** | Skills and career intelligence using Generative AI | Python, FastAPI |
+| [Starship Landing](https://github.com/Jaswanthh22/Starship_landing) | Self-landing rocket simulation using Reinforcement Learning in a Gymnasium environment. | Python, Gymnasium |
+| [AI Web Navigator Agent](https://github.com/Jaswanthh22/Ai_Browser_Navigator) 🏆 | Autonomous browser agent that understands user goals and navigates websites to complete tasks. | Ollama, LangChain, Playwright, Flask, React |
+| [Chest X-ray CV](https://github.com/Jaswanthh22/chestXray_CV) | Disease classification using Convolutional Neural Networks (CNNs). | Python, CNN |
+| [RAG FAQ Chatbot](https://github.com/Jaswanthh22/RAG_agent) | Upload PDFs and chat with them. Evaluated on a 40-question test set: **100% retrieval Hit@4, 74% answer accuracy, and 100% correct refusals.** | FastAPI, FAISS, Ollama, Docker |
+| [TalentVerse](https://github.com/Jaswanthh22/talent_verse) | Skills and career intelligence platform powered by Generative AI. | Python, FastAPI |
 
 
 ## 🛠️ Tech stack
